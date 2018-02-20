@@ -4,6 +4,15 @@ title:  "Open Graph"
 date:   2018-01-25 03:00:43 -0500
 categories: jekyll update
 ---
+<head>
+<title>Open Graph</title>
+<meta property="og:title" content="Open Graph" />
+<meta property="og:type" content="blogposts" />
+<meta property="og:url" content="https://zissedisse.github.io/jekyll/update/2018/01/25/OpenGraph.html" />
+</head>
+<p>
+Hejsan Svejsan
+</p>
 
 <div id="disqus_thread"></div>
 <script>

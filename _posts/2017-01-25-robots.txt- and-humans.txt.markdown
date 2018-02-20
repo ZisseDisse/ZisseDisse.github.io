@@ -4,17 +4,20 @@ title:  "robots.txt & humans.txt."
 date:   2018-01-25 03:00:43 -0500
 categories: jekyll update
 ---
-Hejsan Svejsan sa hallå ja
-<div id="disqus_thread"></div>
-<script>
-<title>The Rock (1996)</title>
-<meta property="og:title" content="How i Implemented comments on my blogposts !" />
+
+<head>
+<title>robots.txt & humans.txt.</title>
+<meta property="og:title" content="robots.txt & humans.txt." />
 <meta property="og:type" content="blogposts" />
-<meta property="og:url" content="http://www.imdb.com/title/tt0117500/" />
+<meta property="og:url" content="https://zissedisse.github.io/jekyll/update/2018/01/25/robots.txt-and-humans.txt.html" />
 </head>
+<p>
+Hejsan Svejsan
+</p>
 
 <div id="disqus_thread"></div>
 <script>
+
 /**
 *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/

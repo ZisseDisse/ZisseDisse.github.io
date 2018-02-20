@@ -5,6 +5,16 @@ date:   2018-01-25 03:00:43 -0500
 categories: jekyll update
 ---
 
+<head>
+<title>My thoughts on pre-compiling CSS</title>
+<meta property="og:title" content="My thoughts on pre-compiling CSS" />
+<meta property="og:type" content="blogposts" />
+<meta property="og:url" content="https://zissedisse.github.io/jekyll/update/2018/01/25/Pre-Compiling-Css.html" />
+</head>
+<p>
+Hejsan Svejsan
+</p>
+
 <div id="disqus_thread"></div>
 <script>
 
