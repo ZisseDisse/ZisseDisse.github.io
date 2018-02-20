@@ -7,9 +7,8 @@ layout: default
 comments: true
 # other options
 ---
-<head>
-
 Hejsan Svejsan
+<head>
 <title>The Rock (1996)</title>
 <meta property="og:title" content="How i Implemented comments on my blogposts !" />
 <meta property="og:type" content="blogposts" />
