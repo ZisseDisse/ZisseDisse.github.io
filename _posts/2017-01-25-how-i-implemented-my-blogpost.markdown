@@ -8,6 +8,8 @@ comments: true
 # other options
 ---
 <head>
+
+Hejsan Svejsan
 <title>The Rock (1996)</title>
 <meta property="og:title" content="How i Implemented comments on my blogposts !" />
 <meta property="og:type" content="blogposts" />
