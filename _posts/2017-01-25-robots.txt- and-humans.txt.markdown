@@ -1,19 +1,17 @@
 ---
-layout: post
+layout: Wrapper
 title:  "robots.txt & humans.txt."
 date:   2018-01-25 03:00:43 -0500
 categories: jekyll update
 ---
+hejsan
 
 <head>
-<title>robots.txt & humans.txt.</title>
+<title>robots.txt and humans.txt.</title>
 <meta property="og:title" content="robots.txt & humans.txt." />
 <meta property="og:type" content="blogposts" />
 <meta property="og:url" content="https://zissedisse.github.io/jekyll/update/2018/01/25/robots.txt-and-humans.txt.html" />
 </head>
-<p>
-Hejsan Svejsan
-</p>
 
 <div id="disqus_thread"></div>
 <script>
