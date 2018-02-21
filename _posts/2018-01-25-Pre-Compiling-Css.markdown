@@ -3,6 +3,7 @@ layout: post
 title:  "My thoughts on pre-compiling CSS"
 date:   2018-01-25 03:00:43 -0500
 categories: jekyll update
+
 ---
 1. regular CSS VS Sass
 With pre-compiler I have alot of more functionality in my Css since I can save colors, sizes etc. in different variables.

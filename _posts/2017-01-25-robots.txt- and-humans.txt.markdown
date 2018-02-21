@@ -3,6 +3,7 @@ layout: post
 title:  "robots.txt & humans.txt."
 date:   2018-01-25 03:00:43 -0500
 categories: jekyll update
+
 ---
 Robots.txt is a file you save with your project and when a search engine looks for things and find your
 project it first checks this file and depending on what you have configured the search engine (robot) have different access to the project.
@@ -12,6 +13,7 @@ Humans.txt is a file where you keep all the persons that have worked on the proj
 So that if anyone wants to see who is supposed to be credited for the site they check in this file.
 
 Both of these files I have put in my SRC folder.
+
 <div id="disqus_thread"></div>
 <script>
 
